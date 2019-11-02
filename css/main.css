@@ -282,6 +282,8 @@ body {
     .f-fish-p {
         font-size: 15px;
         width: 100%;
+        position: relative;
+        left: 0;
     }
 }
 
@@ -346,6 +348,14 @@ body {
         position: relative;
         left: 10px;
         width: 100%;
+    }
+}
+@media (max-width: 540px) {
+    .s-fish-p {
+        font-size: 15px;
+        width: 100%;
+        position: relative;
+        left: 0;
     }
 }
 .s-fish-img {
