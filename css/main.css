@@ -278,6 +278,12 @@ body {
         width: 100%;
     }
 }
+@media (max-width: 540px) {
+    .f-fish-p {
+        font-size: 15px;
+        width: 100%;
+    }
+}
 
 /* Start Second Section */
 
