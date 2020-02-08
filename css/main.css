@@ -244,7 +244,7 @@ body {
 @media (max-width: 992px) {
     .f-fish-h {
         font-size: 2.5rem;
-        width: 107%;
+        width: 100%;
         position: relative;
         left: 35px;
     }
@@ -265,7 +265,7 @@ body {
 @media (max-width: 992px) {
     .f-fish-p {
         font-size: 17px;
-        width: 115%;
+        width: 100%;
         position: relative;
         left: 35px;
     }
